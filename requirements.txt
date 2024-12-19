@@ -1,0 +1,10 @@
+flask
+torch
+opencv-python
+librosa
+numpy
+moviepy
+transformers
+pydub
+pysrt
+whisper
